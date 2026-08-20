@@ -14,6 +14,6 @@
 ## Bibliografía en norma APA de las fuentes consultadas.
 ### GitHub. (2026). Acerca de las solicitudes de incorporación de cambios (pull requests). GitHub Docs. Recuperado de https://docs.github.com/es/pull-requests (docs.github.com in Bing)
 
-GitHub. (2026). Crear una solicitud de incorporación de cambios. GitHub Docs. Recuperado de https://docs.github.com/es/pull-requests/creating (docs.github.com in Bing)
+### GitHub. (2026). Crear una solicitud de incorporación de cambios. GitHub Docs. Recuperado de https://docs.github.com/es/pull-requests/creating (docs.github.com in Bing)
 
-GitHub. (2026). Revisar y aprobar solicitudes de incorporación de cambios. GitHub Docs. Recuperado de https://docs.github.com/es/pull-requests/reviewing (docs.github.com in Bing)
+### GitHub. (2026). Revisar y aprobar solicitudes de incorporación de cambios. GitHub Docs. Recuperado de https://docs.github.com/es/pull-requests/reviewing (docs.github.com in Bing)
