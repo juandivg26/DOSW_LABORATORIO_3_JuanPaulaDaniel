@@ -113,3 +113,8 @@
 | HU-02 — Gestionar el pedido de una mesa | RF-02 | Alta | FEAT-01 |
 | HU-03 — Confirmar pedido y enviarlo a cocina | RF-03 | Alta | FEAT-02 |
 | HU-04 — Cambiar el estado del pedido | RF-04 | Media | FEAT-02 |
+
+
+
+## PLANNING POKER
+[Ver grabación de la estimación](https://drive.google.com/file/d/1yVfTMcWP48FxcfJTUduJDUVYESF0P4hb/view?usp=sharing)
