@@ -1,6 +1,5 @@
 # Jira — El Restaurante (Comida Rápida)
 
----
 
 # 1. Épica
 
@@ -16,7 +15,7 @@
 | Fecha de inicio         | 03/09/2026                                                                                                                                                                                                                                                                                              |
 | Fecha límite            | 18/09/2026                                                                                                                                                                                                                                                                                              |
 | Jira Issue Key          | **DOSW3-1**                                                                                                                                                                                                                                                                                             |
-| Evidencia               | ![alt text](image.png)                                                                                                                                                                                                                                                                                  |
+| Evidencia               | Pendiente de captura                                                                                                                                                                                                                                                                                    |
 
 ---
 
@@ -37,7 +36,7 @@
 | Fecha de inicio       | 03/09/2026                                                                                                                                            |
 | Fecha límite          | 11/09/2026                                                                                                                                            |
 | Jira Issue Key        | **DOSW3-2**                                                                                                                                           |
-| Evidencia             | ![alt text](image-1.png)                                                                                                                                  |
+| Evidencia             | Pendiente de captura                                                                                                                                  |
 
 ---
 
@@ -56,7 +55,7 @@
 | Fecha de inicio         | 08/09/2026                                                                                                                          |
 | Fecha límite            | 18/09/2026                                                                                                                          |
 | Jira Issue Key          | **DOSW3-3**                                                                                                                         |
-| Evidencia               | ![alt text](image-2.png)                                                                                                                |
+| Evidencia               | Pendiente de captura                                                                                                                |
 
 ---
 
@@ -74,7 +73,7 @@
 | Reglas de negocio | RN-01, RN-02, RN-03            |
 | Prioridad         | Alta                           |
 | Responsable       | Sin asignar                    |
-| Story Points      | Pendiente de Parte 7           |
+| Story Points      | **3**                          |
 | Feature padre     | `FEAT-01` (DOSW3-2)            |
 | Etiqueta          | `pedido`                       |
 | Fecha de inicio   | 03/09/2026                     |
@@ -101,7 +100,7 @@
 * **Dado:** que el cliente tiene productos en su pedido.
 * **Cuando:** modifica las cantidades o elimina productos.
 * **Entonces:** el pedido debe actualizarse reflejando los cambios realizados.
-![alt text](image-3.png)
+
 ---
 
 ## HU-02 — Gestionar el pedido de una mesa
@@ -116,7 +115,7 @@
 | Reglas de negocio | RN-01, RN-02, RN-03              |
 | Prioridad         | Alta                             |
 | Responsable       | Sin asignar                      |
-| Story Points      | Pendiente de Parte 7             |
+| Story Points      | **5**                             |
 | Feature padre     | `FEAT-01` (DOSW3-2)              |
 | Etiqueta          | `pedido`                         |
 | Fecha de inicio   | 05/09/2026                       |
@@ -149,7 +148,7 @@
 * **Dado:** que el mesero consulta el pedido de una mesa.
 * **Cuando:** revisa los productos registrados.
 * **Entonces:** debe visualizar la información correspondiente al pedido.
-![alt text](image-4.png)
+
 ---
 
 ## HU-03 — Confirmar pedido y enviarlo a cocina
@@ -164,7 +163,7 @@
 | Reglas de negocio | RN-04, RN-05                           |
 | Prioridad         | Alta                                   |
 | Responsable       | Sin asignar                            |
-| Story Points      | Pendiente de Parte 7                   |
+| Story Points      | **2**                                  |
 | Feature padre     | `FEAT-02` (DOSW3-3)                    |
 | Etiqueta          | `pedido`                               |
 | Fecha de inicio   | 08/09/2026                             |
@@ -191,7 +190,7 @@
 * **Dado:** que el pedido ha sido confirmado.
 * **Cuando:** se envía a cocina.
 * **Entonces:** el pedido debe quedar disponible para iniciar su preparación.
-![alt text](image-5.png)
+
 ---
 
 ## HU-04 — Cambiar el estado del pedido
@@ -206,7 +205,7 @@
 | Reglas de negocio | RN-06, RN-07                    |
 | Prioridad         | Media                           |
 | Responsable       | Sin asignar                     |
-| Story Points      | Pendiente de Parte 7            |
+| Story Points      | **3**                            |
 | Feature padre     | `FEAT-02` (DOSW3-3)             |
 | Etiqueta          | `cocina`                        |
 | Fecha de inicio   | 11/09/2026                      |
@@ -233,11 +232,10 @@
 * **Dado:** que el pedido tiene un estado determinado.
 * **Cuando:** se intenta modificar el pedido de acuerdo con las reglas establecidas.
 * **Entonces:** el sistema debe permitir o bloquear la modificación según el estado actual del pedido.
-![alt text](image-6.png)
+
 ---
 
 # 4. Subtareas
-
 
 ---
 
@@ -248,9 +246,10 @@
 | Subtarea       | Implementar gestión de productos del pedido | Validar disponibilidad de productos | Actualizar cantidades y productos del pedido |
 | Historia padre | `HU-01` (DOSW3-10)                          | `HU-01` (DOSW3-10)                  | `HU-01` (DOSW3-10)                            |
 | Prioridad      | Alta                                        | Alta                                 | Alta                                          |
-| Responsable    | Pendiente de asignación                     | Pendiente de asignación             | Pendiente de asignación                       |
-                            
-![alt text](image-7.png)
+| Responsable    | Paula Díaz                                  | Daniel Valero                       | Juan Valderrama                               |
+| Jira Issue Key | DOSW3-14                                  | DOSW3-15                           | DOSW3-16                                   |
+
+
 ---
 
 ## Subtareas de HU-02 — Gestionar el pedido de una mesa (DOSW3-11)
@@ -260,9 +259,9 @@
 | Subtarea       | Registrar pedido asociado a una mesa | Consultar productos del pedido de una mesa | Modificar productos del pedido de una mesa |
 | Historia padre | `HU-02` (DOSW3-11)                   | `HU-02` (DOSW3-11)                          | `HU-02` (DOSW3-11)                            |
 | Prioridad      | Alta                                  | Alta                                         | Alta                                          |
-| Responsable    | Pendiente de asignación              | Pendiente de asignación                     | Pendiente de asignación                       |
+| Responsable    | Daniel Valero                        | Paula Díaz                                  | Juan Valderrama                               |
+| Jira Issue Key | DOSW3-17                            | DOSW3-18                                   | DOSW3-19                                   |
 
-![alt text](image-8.png)
 ---
 
 ## Subtareas de HU-03 — Confirmar pedido y enviarlo a cocina (DOSW3-12)
@@ -272,9 +271,10 @@
 | Subtarea       | Validar información del pedido | Registrar confirmación del pedido | Enviar pedido al proceso de cocina |
 | Historia padre | `HU-03` (DOSW3-12)              | `HU-03` (DOSW3-12)                 | `HU-03` (DOSW3-12)                    |
 | Prioridad      | Alta                             | Alta                                 | Alta                                   |
-| Responsable    | Pendiente de asignación         | Pendiente de asignación             | Pendiente de asignación               |
+| Responsable    | Paula Díaz                       | Daniel Valero                       | Juan Valderrama                        |
+| Jira Issue Key | DOSW3-20                      | DOSW3-21                           | DOSW3-22                              |
 
-![alt text](image-9.png)
+
 ---
 
 ## Subtareas de HU-04 — Cambiar el estado del pedido (DOSW3-13)
@@ -285,8 +285,9 @@
 | Historia padre | `HU-04` (DOSW3-13)            | `HU-04` (DOSW3-13)             | `HU-04` (DOSW3-13)              |
 | Prioridad      | Media                          | Media                            | Media                             |
 | Responsable    | Pendiente de asignación       | Pendiente de asignación         | Pendiente de asignación          |
+| Jira Issue Key | DOSW3-23                     | DOSW3-24                         | DOSW3-25                          |
 
-![alt text](image-10.png)
+
 ---
 
 # 5. Priorización del Product Backlog
@@ -300,30 +301,106 @@ La prioridad de las historias se establece de acuerdo con su importancia dentro 
 | HU-03 — Confirmar pedido y enviarlo a cocina | DOSW3-12   | Alta      | Permite continuar el flujo del pedido hacia el proceso de preparación. |
 | HU-04 — Cambiar el estado del pedido         | DOSW3-13   | Media     | Gestiona el avance del pedido después de su envío a cocina.            |
 
-6. Evidencias de Jira
-6.1 Creación de la Épica
 
-Evidencia: 
-![alt text](image-11.png)
+---
 
-6.2 Features vinculadas a la Épica
 
-Evidencia: ![alt text](image-12.png)
+# 6. Evidencias de Jira
 
-6.3 Historias de Usuario
+## 6.1 Creación de la Épica
 
-Evidencia HU-01 (DOSW3-10): ![alt text](image-13.png) Evidencia HU-02 (DOSW3-11): ![alt text](image-14.png) Evidencia HU-03 (DOSW3-12): ![alt text](image-15.png) Evidencia HU-04 (DOSW3-13): ![alt text](image-16.png)
+**Evidencia:** `[Pegar aquí captura de la épica DOSW3-1]`
 
-6.4 Subtareas
+## 6.2 Features vinculadas a la Épica
 
-Evidencia: 
-![alt text](image-18.png)
-![alt text](image-19.png)
-![alt text](image-20.png)
-![alt text](image-21.png)
-6.5 Product Backlog y prioridades
+**Evidencia:** `[Pegar aquí captura de la jerarquía EPIC → FEATURE, DOSW3-2 y DOSW3-3]`
 
-Evidencia: 
-![alt text](image-22.png)
+## 6.3 Historias de Usuario
+
+**Evidencia HU-01 (DOSW3-10):** `[Pegar aquí captura]`
+**Evidencia HU-02 (DOSW3-11):** `[Pegar aquí captura]`
+**Evidencia HU-03 (DOSW3-12):** `[Pegar aquí captura]`
+**Evidencia HU-04 (DOSW3-13):** `[Pegar aquí captura]`
+
+## 6.4 Subtareas
+
+**Evidencia:** `[Pendiente — crear las 12 subtareas primero]`
+
+## 6.5 Product Backlog y prioridades
+
+**Evidencia:** `[Pegar aquí captura del Product Backlog mostrando las historias y sus prioridades]`
+
+---
+
+# 7. Timeline
+
+**Evidencia:** `[Pegar aquí captura de Jira Timeline]`
+
+* Inicio de la épica: **03/09/2026**
+* Fin de la épica: **18/09/2026**
+* FEAT-01 (DOSW3-2): **03/09/2026 – 11/09/2026**
+* FEAT-02 (DOSW3-3): **08/09/2026 – 18/09/2026**
+
+---
+
+# 8. Trazabilidad con Scrum Work Breakdown
+
+| Estructura Scrum | Jira Issue Key |
+| ------------------ | ---------------- |
+| `EPIC-01`         | **DOSW3-1**     |
+| `FEAT-01`         | **DOSW3-2**     |
+| `FEAT-02`         | **DOSW3-3**     |
+| `HU-01`           | **DOSW3-10**    |
+| `HU-02`           | **DOSW3-11**    |
+| `HU-03`           | **DOSW3-12**    |
+| `HU-04`           | **DOSW3-13**    |
+| `ST-01`           | **DOSW3-14**    |
+| `ST-02`           | **DOSW3-15**    |
+| `ST-03`           | **DOSW3-16**    |
+| `ST-04`           | **DOSW3-17**    |
+| `ST-05`           | **DOSW3-18**    |
+| `ST-06`           | **DOSW3-19**    |
+| `ST-07`           | **DOSW3-20**    |
+| `ST-08`           | **DOSW3-21**    |
+| `ST-09`           | **DOSW3-22**    |
+| `ST-10`           | **DOSW3-23**    |
+| `ST-11`           | **DOSW3-24**    |
+| `ST-12`           | **DOSW3-25**    |
+
+---
+
+
+# 9. Sprint Backlog (Parte 8 — Planeación del Sprint)
+
+## 10.1 Historias seleccionadas para el Sprint 1
+
+| Historia | Jira Key | Prioridad | Story Points |
+| -------- | -------- | --------- | ------------- |
+| HU-01 — Armar y modificar el pedido | DOSW3-10 | Alta | 3 |
+| HU-02 — Gestionar el pedido de una mesa | DOSW3-11 | Alta | 5 |
+| HU-03 — Confirmar pedido y enviarlo a cocina | DOSW3-12 | Alta | 2 |
+
+**Total Sprint 1: 10 puntos.** HU-04 (Media, 3 puntos) queda para el Sprint 2.
+
+## 10.2 Responsables por subtarea en el Sprint 1
+
+| Subtarea | Historia | Responsable |
+| -------- | -------- | ------------ |
+| ST-01 — Implementar gestión de productos del pedido | HU-01 | Paula Díaz |
+| ST-02 — Validar disponibilidad de productos | HU-01 | Daniel Valero |
+| ST-03 — Actualizar cantidades y productos del pedido | HU-01 | Juan Valderrama |
+| ST-04 — Registrar pedido asociado a una mesa | HU-02 | Daniel Valero |
+| ST-05 — Consultar productos del pedido de una mesa | HU-02 | Paula Díaz |
+| ST-06 — Modificar productos del pedido de una mesa | HU-02 | Juan Valderrama |
+| ST-07 — Validar información del pedido | HU-03 | Paula Díaz |
+| ST-08 — Registrar confirmación del pedido | HU-03 | Daniel Valero |
+| ST-09 — Enviar pedido al proceso de cocina | HU-03 | Juan Valderrama |
+
+## 10.3 Justificación de la planeación
+
+Se seleccionaron las tres historias de **prioridad Alta** (HU-01, HU-02, HU-03) para el Sprint 1, dejando HU-04 (prioridad Media) para el Sprint 2. Dentro de las historias Alta, el criterio de "menor estimación primero" se aplicó considerando la **dependencia funcional** entre ellas: HU-03 (2 puntos, la más pequeña) no puede entregar valor de forma aislada porque depende de que el pedido ya pueda armarse (HU-01) y asociarse a una mesa (HU-02). Por eso las tres entran juntas al Sprint 1: así, al finalizar el sprint, el equipo tiene el flujo completo cliente → mesero → cocina funcionando de extremo a extremo, generando la entrega de valor más temprana y demostrable posible. HU-04 (cambio de estado desde cocina) se deja para el Sprint 2 porque depende de que un pedido ya haya llegado a cocina (RF-04 depende de RF-03), y por ser de prioridad Media no compromete el valor mínimo demostrable del primer sprint.
+
+**Evidencia:** `[Pegar aquí captura del Sprint Backlog en Jira con las 3 historias, sus 9 subtareas y responsables asignados]`
+
 ---
 
