@@ -30,6 +30,7 @@
 
 **Prioridad:** Alta — RF-02 fue priorizado como Alta en el análisis crítico de la Parte 3, debido a que permite construir y modificar las órdenes del restaurante.
 
+| Story Points | 5 |
 
 ### Subtareas
 
@@ -50,6 +51,8 @@
 - Dado que el pedido se encuentra en estado EN PREPARACIÓN, cuando intento modificarlo, entonces el sistema rechaza la modificación.
 
 **Prioridad:** Alta — RF-02 involucra directamente al mesero en la creación y modificación de pedidos, por lo que esta capacidad es necesaria para soportar el flujo de atención del restaurante.
+
+| Story Points | 3 |
 
 ### Subtareas
 
@@ -78,6 +81,8 @@
 
 **Prioridad:** Alta — RF-03 fue priorizado como Alta en el análisis crítico de la Parte 3, porque conecta la solicitud del cliente o mesero con el proceso de preparación en cocina.
 
+| Story Points | 2 |
+
 ### Subtareas
 
 - **ST-07** — Implementar la operación de confirmación del pedido para enviarlo a cocina.
@@ -96,6 +101,8 @@
 - Dado que el personal de cocina cambia el estado de un pedido, cuando se guarda el cambio, entonces el sistema registra el usuario responsable y la fecha del cambio (RN-07).
 
 **Prioridad:** Media — RF-04 fue priorizado como Media en el análisis crítico de la Parte 3, porque es necesario para controlar la preparación, pero depende de que previamente existan pedidos confirmados.
+
+| Story Points | 3 |
 
 ### Subtareas
 
