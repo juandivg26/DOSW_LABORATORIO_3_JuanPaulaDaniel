@@ -15,7 +15,8 @@
 | Fecha de inicio         | 03/09/2026                                                                                                                                                                                                                                                                                              |
 | Fecha límite            | 18/09/2026                                                                                                                                                                                                                                                                                              |
 | Jira Issue Key          | **DOSW3-1**                                                                                                                                                                                                                                                                                             |
-| Evidencia               | Pendiente de captura                                                                                                                                                                                                                                                                                    |
+| Evidencia               | <img width="1556" height="566" alt="imagen" src="https://github.com/user-attachments/assets/065b2301-7d92-494f-af7e-dd3d91f2869a" />
+                                                                                                                                                                                                                                                                              |
 
 ---
 
@@ -36,7 +37,8 @@
 | Fecha de inicio       | 03/09/2026                                                                                                                                            |
 | Fecha límite          | 11/09/2026                                                                                                                                            |
 | Jira Issue Key        | **DOSW3-2**                                                                                                                                           |
-| Evidencia             | Pendiente de captura                                                                                                                                  |
+| Evidencia             | <img width="1509" height="769" alt="imagen" src="https://github.com/user-attachments/assets/42f71f37-49a0-4a68-828a-94135b56ebd5" />
+                                                                                                                                |
 
 ---
 
@@ -55,7 +57,8 @@
 | Fecha de inicio         | 08/09/2026                                                                                                                          |
 | Fecha límite            | 18/09/2026                                                                                                                          |
 | Jira Issue Key          | **DOSW3-3**                                                                                                                         |
-| Evidencia               | Pendiente de captura                                                                                                                |
+| Evidencia               | P<img width="1513" height="833" alt="imagen" src="https://github.com/user-attachments/assets/f2edaa90-3705-4c8d-97e2-b2cd357c6f99" />
+                                                                                                            |
 
 ---
 
@@ -79,7 +82,8 @@
 | Fecha de inicio   | 03/09/2026                     |
 | Fecha límite      | 08/09/2026                     |
 | Jira Issue Key    | **DOSW3-10**                   |
-| Evidencia         | Pendiente de captura           |
+| Evidencia         | <img width="1511" height="820" alt="imagen" src="https://github.com/user-attachments/assets/d34e27db-427c-46a3-815d-422ab8a8072b" />
+          |
 
 ### Descripción para Jira
 
@@ -121,7 +125,8 @@
 | Fecha de inicio   | 05/09/2026                       |
 | Fecha límite      | 11/09/2026                       |
 | Jira Issue Key    | **DOSW3-11**                     |
-| Evidencia         | Pendiente de captura             |
+| Evidencia         | <img width="1505" height="831" alt="imagen" src="https://github.com/user-attachments/assets/a45f4e05-ed87-4b36-99c7-e22bd2ad1802" />
+             |
 
 ### Descripción para Jira
 
@@ -169,7 +174,8 @@
 | Fecha de inicio   | 08/09/2026                             |
 | Fecha límite      | 15/09/2026                             |
 | Jira Issue Key    | **DOSW3-12**                           |
-| Evidencia         | Pendiente de captura                   |
+| Evidencia         | <img width="1505" height="756" alt="imagen" src="https://github.com/user-attachments/assets/1b962280-f5fc-48a9-a640-be7d1ebcf726" />
+                   |
 
 ### Descripción para Jira
 
@@ -211,7 +217,8 @@
 | Fecha de inicio   | 11/09/2026                      |
 | Fecha límite      | 18/09/2026                      |
 | Jira Issue Key    | **DOSW3-13**                    |
-| Evidencia         | Pendiente de captura            |
+| Evidencia         | <img width="1833" height="817" alt="imagen" src="https://github.com/user-attachments/assets/04fe1ba1-e3de-40e4-b831-5404723d6e7e" />
+           |
 
 ### Descripción para Jira
 
@@ -309,32 +316,41 @@ La prioridad de las historias se establece de acuerdo con su importancia dentro 
 
 ## 6.1 Creación de la Épica
 
-**Evidencia:** `[Pegar aquí captura de la épica DOSW3-1]`
+**Evidencia:** <img width="1519" height="444" alt="imagen" src="https://github.com/user-attachments/assets/adda5e98-60bc-41c8-93e7-2351e0604e59" />
+
 
 ## 6.2 Features vinculadas a la Épica
 
-**Evidencia:** `[Pegar aquí captura de la jerarquía EPIC → FEATURE, DOSW3-2 y DOSW3-3]`
+**Evidencia:** <img width="896" height="387" alt="imagen" src="https://github.com/user-attachments/assets/a7f5a67b-fb5e-4da3-91d2-fe9481efe912" />
+
 
 ## 6.3 Historias de Usuario
 
-**Evidencia HU-01 (DOSW3-10):** `[Pegar aquí captura]`
-**Evidencia HU-02 (DOSW3-11):** `[Pegar aquí captura]`
-**Evidencia HU-03 (DOSW3-12):** `[Pegar aquí captura]`
-**Evidencia HU-04 (DOSW3-13):** `[Pegar aquí captura]`
+**Evidencia HU-01 (DOSW3-10):** <img width="1511" height="820" alt="imagen" src="https://github.com/user-attachments/assets/9f77d19a-880c-43ff-aa88-c9994fd1266a" />
+
+**Evidencia HU-02 (DOSW3-11):** <img width="1505" height="831" alt="imagen" src="https://github.com/user-attachments/assets/9c89bd1c-0bf0-4310-9174-54ef23d67a24" />
+
+**Evidencia HU-03 (DOSW3-12):** <img width="1505" height="756" alt="imagen" src="https://github.com/user-attachments/assets/09390e72-b442-4d57-95ce-2f1688dcbe23" />
+
+**Evidencia HU-04 (DOSW3-13):** <img width="1512" height="808" alt="imagen" src="https://github.com/user-attachments/assets/df64e927-51a5-412b-8858-aad046b42364" />
+
 
 ## 6.4 Subtareas
 
-**Evidencia:** `[Pendiente — crear las 12 subtareas primero]`
+**Evidencia:** <img width="1192" height="543" alt="imagen" src="https://github.com/user-attachments/assets/417fd191-d9ce-40d0-b5eb-f0ebbb520f58" />
+
 
 ## 6.5 Product Backlog y prioridades
 
-**Evidencia:** `[Pegar aquí captura del Product Backlog mostrando las historias y sus prioridades]`
+**Evidencia:** <img width="1616" height="245" alt="imagen" src="https://github.com/user-attachments/assets/47549c42-107d-421b-8a39-b0a253e7bae5" />
+
 
 ---
 
 # 7. Timeline
 
-**Evidencia:** `[Pegar aquí captura de Jira Timeline]`
+**Evidencia:** <img width="1360" height="773" alt="imagen" src="https://github.com/user-attachments/assets/9c29b0bf-ff8a-425f-ae8b-4ed2eb659b15" />
+
 
 * Inicio de la épica: **03/09/2026**
 * Fin de la épica: **18/09/2026**
@@ -376,11 +392,12 @@ La prioridad de las historias se establece de acuerdo con su importancia dentro 
 
 | Historia | Jira Key | Prioridad | Story Points |
 | -------- | -------- | --------- | ------------- |
-| HU-01 — Armar y modificar el pedido | DOSW3-10 | Alta | 3 |
-| HU-02 — Gestionar el pedido de una mesa | DOSW3-11 | Alta | 5 |
+| HU-01 — Armar y modificar el pedido | DOSW3-10 | Alta | 5 |
+| HU-02 — Gestionar el pedido de una mesa | DOSW3-11 | Alta | 3 |
 | HU-03 — Confirmar pedido y enviarlo a cocina | DOSW3-12 | Alta | 2 |
 
-**Total Sprint 1: 10 puntos.** HU-04 (Media, 3 puntos) queda para el Sprint 2.
+<img width="1534" height="252" alt="imagen" src="https://github.com/user-attachments/assets/0e983716-1b9e-4c73-a474-da0b6082f808" />
+
 
 ## 10.2 Responsables por subtarea en el Sprint 1
 
@@ -400,7 +417,6 @@ La prioridad de las historias se establece de acuerdo con su importancia dentro 
 
 Se seleccionaron las tres historias de **prioridad Alta** (HU-01, HU-02, HU-03) para el Sprint 1, dejando HU-04 (prioridad Media) para el Sprint 2. Dentro de las historias Alta, el criterio de "menor estimación primero" se aplicó considerando la **dependencia funcional** entre ellas: HU-03 (2 puntos, la más pequeña) no puede entregar valor de forma aislada porque depende de que el pedido ya pueda armarse (HU-01) y asociarse a una mesa (HU-02). Por eso las tres entran juntas al Sprint 1: así, al finalizar el sprint, el equipo tiene el flujo completo cliente → mesero → cocina funcionando de extremo a extremo, generando la entrega de valor más temprana y demostrable posible. HU-04 (cambio de estado desde cocina) se deja para el Sprint 2 porque depende de que un pedido ya haya llegado a cocina (RF-04 depende de RF-03), y por ser de prioridad Media no compromete el valor mínimo demostrable del primer sprint.
 
-**Evidencia:** `[Pegar aquí captura del Sprint Backlog en Jira con las 3 historias, sus 9 subtareas y responsables asignados]`
 
 ---
 
